@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi! I'm Nije'l Cook 👋
 
-<!--
-**Nijel05/Nijel05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+Recent Computer Science graduate from Norfolk State University with concentration in softwaredevelopment 🎓. Passionate about software enginering, open-source development, and building applications that solve real-world problems. Currently Contributing to open-source software while exapnding my experience in collobrative devlopment and modern software engineering practices.
 
-Here are some ideas to get you started:
+## Technical Skills 🛠️:
+### Languages 💻:
+- Java
+- JavaScript
+- C++
+- SQL 
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools and Technologies ⚙️:
+- React
+- HTML
+- VS Code
+
+## Projects 🚀:
+### Virtual Smart Study Assistant (VSSA) 📚
+a study assistant application designed to help students improve learning efficiency through question mangament, flashcards, and progress tracking.
+
+## Connect With Me On 📫:
+- LinkedIn: www.linkedin.com/in/nijel-cook-b85b88416
+- Email: nijel.cook101@gmail.com
+
+Always learning, always building! ⭐
+
