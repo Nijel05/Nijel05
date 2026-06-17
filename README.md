@@ -29,7 +29,7 @@ a study assistant application designed to help students improve learning efficie
 ### Favorite Anime
 ● ⚔️ Vinland Saga
 ● 🏴‍☠️ One Piece
-● ⚡ Bleach
+● 🍜 Naruto
 ● 👊 Jujutsu Kaisen
 
 
